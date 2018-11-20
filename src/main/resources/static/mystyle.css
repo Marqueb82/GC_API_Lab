@@ -1,0 +1,12 @@
+body {
+    background-image: url("images/history.png");
+}
+
+.important{
+	background-color: black;
+	color: white;
+	width: 400px;
+    border: 25px solid gold;
+    padding: 25px;
+    margin: auto;
+}
